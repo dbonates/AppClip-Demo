@@ -1,0 +1,39 @@
+{
+    "name": "BBQ Pit House",
+    "review": 1,
+    "type": "Restaurante",
+    "id": 15,
+    "about": "Pit",
+    "schedule": {
+        "sunday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "monday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "tuesday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "wednesday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "thursday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "friday": {
+            "open": "7h",
+            "close": "00h"
+        },
+        "saturday": {
+            "open": "7h",
+            "close": "0h"
+        }
+    },
+    "phone": "+5531988321545",
+    "adress": "Rua Pit,791,Jardim Santa Maria,Belo Horizonte,Minas Gerais"
+}

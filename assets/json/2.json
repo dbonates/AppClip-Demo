@@ -1,0 +1,31 @@
+{
+    "name": "Hangar",
+    "review": 3.8,
+    "type": "Restaurante",
+    "id": 2,
+    "about": "Aliquet ac litora dui ornare cursus iaculis. massa turpis at dictumst cubilia blandit interdum class ultrices pretium, mollis sagittis porta luctus orci consequat feugiat iaculis quis, inceptos euismod vel leo dolor magna mauris blandit. commodo tellus litora convallis vivamus aliquet malesuada, dictum hendrerit vel vivamus eleifend est commodo, luctus mi porttitor phasellus gravida. ",
+    "schedule": {
+        "sunday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "17h",
+            "close": "1h"
+        },
+        "saturday": {
+            "open": "17h",
+            "close": "1h"
+        }
+    },
+    "phone": "+3198888877",
+    "adress": "Avenida Primeiro de Março,936,Ideal,Belo Horizonte,Minas Gerais"
+}

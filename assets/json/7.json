@@ -1,0 +1,35 @@
+{
+    "name": "Passaí",
+    "review": 4,
+    "type": "Sucos Naturais",
+    "id": 7,
+    "about": "A nostra magna malesuada consectetur amet porttitor a volutpat phasellus, scelerisque magna eu nostra sem odio at massa, auctor egestas tortor justo tincidunt venenatis vehicula rhoncus nostra, nullam eu lorem in ultricies molestie ligula. quis posuere porta platea ut id pharetra nunc posuere, senectus auctor hac rhoncus himenaeos leo etiam amet torquent, risus interdum pulvinar torquent sit posuere lectus. ",
+    "schedule": {
+        "monday": {
+            "open": "7h",
+            "close": "22h"
+        },
+        "tuesday": {
+            "open": "7h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "7h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "7h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "7h",
+            "close": "22h"
+        },
+        "saturday": {
+            "open": "7h",
+            "close": "10h"
+        }
+    },
+    "phone": "+553120203030",
+    "adress": "Rua Elias Pedrosa,755,Jardim Altamira,Belo Horizonte,Minas Gerais"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "KPOPKA",
+    "review": 0,
+    "type": "Sucos Naturais",
+    "id": 4,
+    "about": "Cubilia hendrerit posuere eleifend hendrerit purus conubia. potenti curae inceptos tincidunt himenaeos eros aptent augue, venenatis augue iaculis ultricies fusce scelerisque lacus lorem, cras nec nisi nisl faucibus molestie. libero phasellus sapien proin litora accumsan tortor pretium, bibendum eu turpis odio volutpat ligula, elit nisi magna vestibulum dictumst aliquam. blandit urna blandit donec inceptos nec hac facilisis, justo ut neque himenaeos semper varius eget fusce, amet aenean scelerisque cras consectetur leo. et iaculis varius urna fusce eu consequat euismod ullamcorper iaculis pharetra praesent elit, cras sit interdum varius interdum turpis maecenas eleifend lectus porttitor. ",
+    "schedule": {
+        "monday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "tuesday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "wednesday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "thursday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "friday": {
+            "open": "7h",
+            "close": "17h"
+        }
+    },
+    "phone": "+5531988876666",
+    "adress": "Passagem Jardin America,701,Marabaixo,Belo Horizonte,Minas Gerais"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Rebmul Barbearia",
+    "review": 2.7,
+    "type": "Barbearia",
+    "id": 10,
+    "about": "Lacinia morbi vivamus cras senectus vel curae quis convallis litora, amet augue vivamus taciti congue iaculis posuere est duis imperdiet, condimentum nisi porta vulputate ultrices taciti neque feugia",
+    "schedule": {
+        "monday": {
+            "open": "10h",
+            "close": "22h"
+        },
+        "tuesday": {
+            "open": "10h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "10h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "10h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "10h",
+            "close": "22h"
+        },
+        "saturday": {
+            "open": "10h",
+            "close": "18h"
+        }
+    },
+    "phone": "",
+    "adress": "Rua Tenente Manoel Barbosa,578,Imbiribeira,Belo Horizonte,Minas Gerais"
+}

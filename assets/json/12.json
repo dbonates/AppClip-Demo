@@ -1,0 +1,35 @@
+{
+    "name": "ElkrapS Taqueria Artesanal",
+    "review": 4.9,
+    "type": "Bares",
+    "id": 12,
+    "about": "Sociosqu pellentesque suscipit convallis euismod ullamcorper varius, turpis potenti nisi lacinia arcu rhoncus curae purus per, convallis imperdiet tincidunt curabitur sagittis etiam platea duis dictumst. eu gravida venenatis tempor tellus tincidunt lectus torquent, volutpat donec facilisis sapien porttitor. ",
+    "schedule": {
+        "sunday": {
+            "open": "12h",
+            "close": "23h"
+        },
+        "tuesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "saturday": {
+            "open": "12h",
+            "close": "22h"
+        }
+    },
+    "phone": "+553111111112",
+    "adress": "Rua Regina Lúcia,344,Vila Scintila,Belo Horizonte,Minas Gerais"
+}

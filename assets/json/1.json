@@ -1,0 +1,41 @@
+{
+    "name": "Café Escritório",
+    "review": 3.8,
+    "type": "Coworking",
+    "id": 1,
+    "about": "Posuere congue eget condimentum purus cubilia aptent senectus, auctor euismod potenti ad fringilla aenean, ante quisque fringilla porttitor consectetur aenean. sed purus neque duis quisque nullam ornare mattis torquent, feugiat risus fermentum duis tincidunt quisque curabitur, nibh magna sapien consequat non bibendum curae. sociosqu mattis aptent ultricies in aptent fusce magna libero,",
+    "schedule": [
+        {
+            "sunday": {
+                "open": "7h",
+                "close": "13h"
+            },
+            "monday": {
+                "open": "7h",
+                "close": "23h"
+            },
+            "tuesday": {
+                "open": "7h",
+                "close": "23h"
+            },
+            "wednesday": {
+                "open": "7h",
+                "close": "23h"
+            },
+            "thursday": {
+                "open": "7h",
+                "close": "23h"
+            },
+            "friday": {
+                "open": "7h",
+                "close": "23h"
+            },
+            "saturday": {
+                "open": "7h",
+                "close": "23h"
+            }
+        }
+    ],
+    "phone": "+553130332222",
+    "adress": "Passagem Companheiro dos Amigos,833,Piraporinha,Belo Horizonte,Minas Gerais"
+}

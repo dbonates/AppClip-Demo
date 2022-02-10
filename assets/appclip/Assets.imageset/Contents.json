@@ -1,0 +1,80 @@
+{
+    "images" : [
+        {
+            "idiom" : "mac",
+            "size"  : "16x16",
+            "scale" : "1x",
+            "filename" : "16pt_Mac_1x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "16x16",
+            "scale" : "2x",
+            "filename" : "16pt_Mac_2x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "32x32",
+            "scale" : "1x",
+            "filename" : "32pt_Mac_1x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "32x32",
+            "scale" : "2x",
+            "filename" : "32pt_Mac_2x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "128x128",
+            "scale" : "1x",
+            "filename" : "128pt_Mac_1x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "128x128",
+            "scale" : "2x",
+            "filename" : "128pt_Mac_2x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "256x256",
+            "scale" : "1x",
+            "filename" : "256pt_Mac_1x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "256x256",
+            "scale" : "2x",
+            "filename" : "256pt_Mac_2x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "512x512",
+            "scale" : "1x",
+            "filename" : "512pt_Mac_1x.png"
+        },
+        {
+            "idiom" : "mac",
+            "size"  : "512x512",
+            "scale" : "2x",
+            "filename" : "512pt_Mac_AppStore_2x.png"
+        },
+        {
+            "idiom" : "carplay",
+            "size"  : "60x60",
+            "scale" : "2x",
+            "filename" : "60pt_Car_Play_2x.png"
+        },
+        {
+            "idiom" : "carplay",
+            "size"  : "60x60",
+            "scale" : "3x",
+            "filename" : "60pt_Car_Play_3x.png"
+        }
+    ],
+    "info" : {
+        "version" : 1,
+        "author"  : "Iconset Kit"
+    }
+}

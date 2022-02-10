@@ -1,0 +1,39 @@
+{
+    "name": "Padaria Pelicano",
+    "review": 4.5,
+    "type": "Padaria",
+    "id": 3,
+    "about": "Fringilla justo quisque cursus primis sagittis quam ac felis, condimentum erat curabitur aenean mauris purus suspendisse integer sapien",
+    "schedule": {
+        "sunday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "monday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "tuesday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "wednesday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "thursday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "friday": {
+            "open": "6h",
+            "close": "23h"
+        },
+        "saturday": {
+            "open": "6h",
+            "close": "23h"
+        }
+    },
+    "phone": "+553122449988",
+    "adress": "Rua Tereza Schreiner,393,Schramm,Belo Horizonte,Minas Gerais"
+}

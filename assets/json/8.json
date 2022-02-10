@@ -1,0 +1,35 @@
+{
+    "name": "Simple",
+    "review": 5,
+    "type": "Produtos naturais",
+    "id": 8,
+    "about": "Quisque interdum porttitor sed quam ut conubia sed vestibulum proin platea pretium ad nibh fames, aliquam fermentum sociosqu ligula aliquam interdum tellus sapien aenean metus quisque metus ultricies. varius curabitur rutrum imperdiet congue dolor ornare vulputate ut rhoncus litora, per curabitur pellentesque cras sociosqu fames",
+    "schedule": {
+        "monday": {
+            "open": "9h",
+            "close": "18h"
+        },
+        "tuesday": {
+            "open": "9h",
+            "close": "18h"
+        },
+        "wednesday": {
+            "open": "9h",
+            "close": "18h"
+        },
+        "thursday": {
+            "open": "9h",
+            "close": "18h"
+        },
+        "friday": {
+            "open": "9h",
+            "close": "18h"
+        },
+        "saturday": {
+            "open": "10h",
+            "close": "14h"
+        }
+    },
+    "phone": "+553122442244",
+    "adress": "Rua Paulino Medeiros,573,José Bonifácio,Belo Horizonte,Minas Gerais"
+}

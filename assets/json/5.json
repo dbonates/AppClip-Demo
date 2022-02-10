@@ -1,0 +1,39 @@
+{
+    "name": "Baianera",
+    "review": 1.1,
+    "type": "Restaurante",
+    "id": 5,
+    "about": "Fermentum diam massa libero fames taciti, curae feugiat sagittis maecenas imperdiet, nullam orci non vulputate. sociosqu at interdum nullam mi donec sapien nibh dictumst, risus rhoncus cubilia consectetur ",
+    "schedule": {
+        "sunday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "monday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "tuesday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "wednesday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "thursday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "friday": {
+            "open": "11h",
+            "close": "15h"
+        },
+        "saturday": {
+            "open": "11h",
+            "close": "22h"
+        }
+    },
+    "phone": "+5531789995252",
+    "adress": "Rua Tulipa da África,126,Vila Cardoso Franco,Belo Horizonte,Minas Gerais"
+}

@@ -1,0 +1,94 @@
+{
+    "listLocations": [
+        {
+            "name": "Café Escritório",
+            "review": 3.8,
+            "type": "Coworking",
+            "id": 1
+        },
+        {
+            "name": "Hangar",
+            "review": 3.8,
+            "type": "Restaurante",
+            "id": 2
+        },
+        {
+            "name": "Padaria Pelicano",
+            "review": 4.5,
+            "type": "Padaria",
+            "id": 3
+        },
+        {
+            "name": "KPOPKA",
+            "review": 0,
+            "type": "Sucos Naturais",
+            "id": 4
+        },
+        {
+            "name": "Baianera",
+            "review": 1.1,
+            "type": "Restaurante",
+            "id": 5
+        },
+        {
+            "name": "Garage",
+            "review": 4.4,
+            "type": "Cafeteria",
+            "id": 6
+        },
+        {
+            "name": "Passaí",
+            "review": 4,
+            "type": "Sucos Naturais",
+            "id": 7
+        },
+        {
+            "name": "Simple",
+            "review": 5,
+            "type": "Produtos naturais",
+            "id": 8
+        },
+        {
+            "name": "Café Kitsumé",
+            "review": 3.5,
+            "type": "Cafeteria",
+            "id": 9
+        },
+        {
+            "name": "Rebmul Barbearia",
+            "review": 2.7,
+            "type": "Barbearia",
+            "id": 10
+        },
+        {
+            "name": "AreP Hortifrut",
+            "review": 3,
+            "type": "Supermercado",
+            "id": 11
+        },
+        {
+            "name": "ElkrapS Taqueria Artesanal",
+            "review": 4.9,
+            "type": "Bares",
+            "id": 12
+        },
+        {
+            "name": "Pub 1014",
+            "review": 4.1,
+            "type": "Bares",
+            "id": 13
+        },
+        {
+            "name": "Fire Mexican",
+            "review": 5,
+            "type": "Restaurante",
+            "id": 14
+        },
+        {
+            "name": "BBQ Pit House",
+            "review": 1,
+            "type": "Restaurante",
+            "id": 15
+        }
+    ]
+}

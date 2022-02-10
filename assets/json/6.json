@@ -1,0 +1,39 @@
+{
+    "name": "Garage",
+    "review": 4.4,
+    "type": "Cafeteria",
+    "id": 6,
+    "about": "Malesuada litora curabitur consequat sociosqu, porta turpis netus nibh tempus quam eleifend",
+    "schedule": {
+        "sunday": {
+            "open": "7h",
+            "close": "23h"
+        },
+        "monday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "tuesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "saturday": {
+            "open": "17h",
+            "close": "22h"
+        }
+    },
+    "phone": "+553196871234",
+    "adress": "Rua Estrela da Manhã,331,Vila Angélica,Belo Horizonte,Minas Gerais"
+}

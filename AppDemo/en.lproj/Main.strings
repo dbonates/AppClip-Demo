@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "SOBRE"; ObjectID = "25X-hN-sU2"; */
+"25X-hN-sU2.text" = "About";
+
+/* Class = "UILabel"; text = "review"; ObjectID = "2yh-kK-jRy"; */
+"2yh-kK-jRy.text" = "Rating";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5DR-HN-f7a"; */
+"5DR-HN-f7a.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "DIh-xO-24T"; */
+"DIh-xO-24T.title" = "Profile";
+
+/* Class = "UITabBarItem"; title = "Location"; ObjectID = "KVz-68-kFy"; */
+"KVz-68-kFy.title" = "Location";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "MHC-nf-Sho"; */
+"MHC-nf-Sho.text" = "Address";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NDb-AE-Pz4"; */
+"NDb-AE-Pz4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "Vnd-r0-1cM"; */
+"Vnd-r0-1cM.text" = "Schedule";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "X9z-Jv-k3V"; */
+"X9z-Jv-k3V.text" = "Phone";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "gLM-gN-nxg"; */
+"gLM-gN-nxg.text" = "Name";
+
+/* Class = "UILabel"; text = "Posuere congue eget condimentum purus cubilia aptent senectus, auctor euismod potenti ad fringilla aenean, ante quisque fringilla porttitor consectetur aenean. sed purus neque duis quisque nullam ornare mattis torquent, feugiat risus fermentum duis tincidunt quisque curabitur, nibh magna sapien consequat non bibendum curae. sociosqu mattis aptent ultricies in aptent fusce magna libero"; ObjectID = "ipc-uR-x8r"; */
+"ipc-uR-x8r.text" = "Posuere congue eget condimentum purus cubilia aptent senectus, auctor euismod potenti ad fringilla aenean, ante quisque fringilla porttitor consectetur aenean. sed purus neque duis quisque nullam ornare mattis torquent, feugiat risus fermentum duis tincidunt quisque curabitur, nibh magna sapien consequat non bibendum curae. sociosqu mattis aptent ultricies in aptent fusce magna libero";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "urZ-WT-JVE"; */
+"urZ-WT-JVE.title" = "Item";

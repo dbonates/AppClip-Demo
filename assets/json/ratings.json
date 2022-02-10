@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0f37d5a80f6794f64d753ea1cefa6d26",
+    "_insertTimestamp": "2020-01-08 23:00:09.001 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B07NW1JCK3",
+    "username": "Tomás Montenegro, Belo Horizonte - MG",
+    "rating": 5.0,
+    "subject": "Fantástico!!!",
+    "content": "Tortas deliciosas. Os waffles também estavam muito bons. Equipe muito atenciosa. :)",
+    "dateLabel": "7 January 2020",
+    "timestamp": "2020-01-07 00:00:00 UTC"
+  },
+  {
+    "id": "f70292edb59ff7111b7aae710b089d9f",
+    "_insertTimestamp": "2020-01-08 23:00:07.784 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B00DSOY2OA",
+    "username": "Glória Ruiz, São João Del Rey - MG",
+    "rating": 3.2,
+    "subject": "Café da manhã delicioso",
+    "content": "Nós fomos para o brunch e estava realmente delicioso. Pães, ovos, café, sucos naturais. Não é muito barato mas vale a pena.",
+    "dateLabel": "7 January 2020",
+    "timestamp": "2020-01-07 00:00:00 UTC"
+  },
+  {
+    "id": "bea99a3e83c5732538267eb957ce98f5",
+    "_insertTimestamp": "2020-01-08 23:00:09.001 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B004BRQP7A",
+    "username": "Shirley Jones, Mountain View - CA",
+    "rating": 5.0,
+    "subject": "Ótima comida",
+    "content": "Comidas frescas e de boa qualidade. Pães e quitandas saindo do forno toda hora. Cafés especiais e ambiente agradável.",
+    "dateLabel": "7 January 2020",
+    "timestamp": "2020-01-07 00:00:00 UTC"
+  },
+  {
+    "id": "1d013e3875d10ae2b34a0e0109d0faaa",
+    "_insertTimestamp": "2020-01-08 23:00:08.494 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B01DO2AA64",
+    "username": "Michael Kerstein",
+    "rating": 4.4,
+    "subject": "Quase ótimo 🙂",
+    "content": "The reason I’m unhappy it didn’t fit my Wilkinson razor therefore The purchase was completely wasted as I had opened the packet to try and fit these blades.",
+    "dateLabel": "6 January 2020",
+    "timestamp": "2020-01-06 00:00:00 UTC"
+  },
+  {
+    "id": "de93c815ba568c11652723ff2490bc63",
+    "_insertTimestamp": "2020-01-08 23:00:11.710 UTC",
+    "retailer": "Amazon-US",
+    "productNo": "B073SK9PD1",
+    "username": "Mac",
+    "rating": 2.0,
+    "subject": "Don’t fit",
+    "content": "The flavor options not the price per ounce, but that is WRONG. A 5LB bag for $31.18 is $.39/ounce, not $.13/ounce and stated.",
+    "dateLabel": "January 6, 2020",
+    "timestamp": "2020-01-06 00:00:00 UTC"
+  },
+  {
+    "id": "2f09cb53cf8901b10b2d857be121e43d",
+    "_insertTimestamp": "2020-01-08 23:00:07.225 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B0064O7W52",
+    "username": "Razan",
+    "rating": 4.0,
+    "subject": "not original",
+    "content": "not original it breaks out my face",
+    "dateLabel": "6 January 2020",
+    "timestamp": "2020-01-06 00:00:00 UTC"
+  },
+  {
+    "id": "ddd2c74bf64207c8e53b1ee53045d32b",
+    "_insertTimestamp": "2020-01-08 23:00:03.310 UTC",
+    "retailer": "Amazon-UK",
+    "productNo": "B074WRVYWP",
+    "username": "Music",
+    "rating": 3.0,
+    "subject": "Not a 2 pack - only one received.",
+    "content": "Not that there is anything wrong with the product itself, I would like to draw attention to the quantity being wrong.",
+    "dateLabel": "6 January 2020",
+    "timestamp": "2020-01-06 00:00:00 UTC"
+  }
+  ]

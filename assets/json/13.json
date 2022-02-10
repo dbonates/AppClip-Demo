@@ -1,0 +1,35 @@
+{
+    "name": "Pub 1014",
+    "review": 4.1,
+    "type": "Bares",
+    "id": 13,
+    "about": "Fermentum diam massa libero fames taciti, curae feugiat sagittis maecenas imperdiet, nullam orci non vulputate. sociosqu at interdum nullam mi donec sapien nibh dictumst, risus rhoncus cubilia consectetur malesuada",
+    "schedule": {
+        "sunday": {
+            "open": "10h",
+            "close": "18h"
+        },
+        "tuesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "wednesday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "thursday": {
+            "open": "17h",
+            "close": "22h"
+        },
+        "friday": {
+            "open": "17h",
+            "close": "02h"
+        },
+        "saturday": {
+            "open": "17h",
+            "close": "02h"
+        }
+    },
+    "phone": "+553155889977",
+    "adress": "Avenida Maruípe,528,Itararé,Belo Horizonte,Minas Gerais"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "AreP Hortifrut",
+    "review": 3,
+    "type": "Supermercado",
+    "id": 11,
+    "about": "Diam a faucibus vehicula a metus praesent nulla habitant duis, magna habitant donec class tortor sit ad scelerisque ut, porta litora tortor mauris nostra maecenas gravida adipiscing. urna ultrices proin senectus",
+    "schedule": {
+        "monday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "tuesday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "wednesday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "thursday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "friday": {
+            "open": "7h",
+            "close": "17h"
+        },
+        "saturday": {
+            "open": "7h",
+            "close": "12h"
+        }
+    },
+    "phone": "+553130118877",
+    "adress": "Quadra Quadra 41,657,Parque Araguari,Belo Horizonte,Minas Gerais"
+}
